@@ -1,4 +1,4 @@
---Merchandise Department
+--Merchandise Department 8/25/2021
 create  or replace table KT_DB_TEST.STG_WH.STG_D_MERCH_DEPT(
    dept_id varchar not null
   ,dept_desc varchar
